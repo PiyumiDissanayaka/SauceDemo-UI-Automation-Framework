@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "1b111d07-0208-44d5-9f51-b1b282416270",
+		"name": "SauceDemo-API-Testing",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42696979",
+		"_collection_link": "https://winter-meteor-13208.postman.co/workspace/Postman-API-Fundamentals-Studen~db839bc4-ed4f-4ce3-bcae-5dfdb46b90b3/collection/42696979-1b111d07-0208-44d5-9f51-b1b282416270?action=share&source=collection_link&creator=42696979"
+	},
+	"item": [
+		{
+			"name": "Get All Users",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Create a Post",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Single User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

@@ -1,32 +1,24 @@
 # SauceDemo-UI-Automation-Framework
-Web Automation Project using Selenium Java, TestNG, and Page Object Model (POM). Includes Manual Test Cases and Bug Reports.
-🚀 Web Automation Portfolio - SauceDemo
-This project demonstrates end-to-end testing of an e-commerce platform. It covers Manual Testing, UI Automation, and API Validation.
 
-🛠 Tools & Technologies
-Language: Java 17
+This project demonstrates my expertise in Manual, API, and Automation Testing using industry-standard tools.
 
-Automation: Selenium WebDriver
+## 🛠️ Tech Stack & Tools
+* **Manual Testing:** Test Case Design, Bug Reporting (Excel, PDF)
+* **API Testing:** Postman
+* **Automation:** Selenium WebDriver, Java, TestNG, Maven, Page Object Model (POM)
+* **Website Tested:** [SauceDemo](https://www.saucedemo.com/)
 
-Framework: TestNG (Testing), Maven (Build Tool)
+## 📂 Project Structure
+* **Manual-Testing:** Contains comprehensive test cases and a sample bug report.
+* **API-Testing:** Postman collection for API validation.
+* **Automation-Testing:** Selenium scripts following the POM architecture.
 
-Design Pattern: Page Object Model (POM)
+## 📝 Features Automated
+1. Valid Login & URL Verification
+2. Add to Cart functionality & Badge count validation
 
-Reporting: Allure / Extent Reports
-
-Manual: Google Sheets, Snipping Tool (Screenshots)
-
-
-📝 Project Overview
-Manual Testing: Written 15+ comprehensive test cases covering Login, Cart, and Checkout modules.
-
-UI Automation: Automated critical user paths using Selenium Java.
-
-Bug Reporting: Documented found issues with severity and steps to reproduce.
-
-⚙️ How to Run
-Clone the repo: git clone [Your Repo URL]
-
-Navigate to Automation-Testing folder.
-
-Run mvn test in terminal.
+## ⚙️ How to Run Automation
+1. Clone the repository.
+2. Open the `Automation-Testing` folder in IntelliJ IDEA.
+3. Load Maven dependencies.
+4. Run `testng.xml` to execute all tests.
